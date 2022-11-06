@@ -2,4 +2,12 @@ body{
   background-color: #03d3fc;
   position: inherit;
   align-content: center;
+  position: absolute;
+  left: 10px
+}
+.1{
+  transform:rotateX(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+
 }
